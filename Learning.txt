@@ -1,0 +1,11 @@
+OSI model
+APIs and Web applications
+Cloud fendamentals
+Operating systems
+Databases
+
+
+https://www.youtube.com/watch?v=EN4fEbcFZ_E - cloud computung
+https://www.youtube.com/watch?v=gfWr2_H39N0&t=856s  - microservices
+https://www.youtube.com/watch?v=vv4y_uOneC0&t=24s - OSI model
+Microservices Full Course - Learn Microservices in 4 Hours | Microservices Tutorial | Edureka - microservices
